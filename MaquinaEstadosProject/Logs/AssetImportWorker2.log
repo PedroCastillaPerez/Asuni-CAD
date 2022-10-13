@@ -1,0 +1,347 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.9f1 (ad3870b89536) revision 11352176'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'es' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/USUARIO/Desktop/Buscar Tabajo/ListaDeProyectosAComprobar/EntranSeguro/A1Terminados/MaquinaEstadosProject
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+53388
+Successfully changed project path to: C:/Users/USUARIO/Desktop/Buscar Tabajo/ListaDeProyectosAComprobar/EntranSeguro/A1Terminados/MaquinaEstadosProject
+C:/Users/USUARIO/Desktop/Buscar Tabajo/ListaDeProyectosAComprobar/EntranSeguro/A1Terminados/MaquinaEstadosProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 62.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.9f1 (ad3870b89536)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/USUARIO/Desktop/Buscar Tabajo/ListaDeProyectosAComprobar/EntranSeguro/A1Terminados/MaquinaEstadosProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8050 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008028 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.581 seconds
+Domain Reload Profiling:
+	ReloadAssembly (581ms)
+		BeginReloadAssembly (75ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (387ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (91ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (227ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006700 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\USUARIO\Desktop\Buscar Tabajo\ListaDeProyectosAComprobar\EntranSeguro\A1Terminados\MaquinaEstadosProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\USUARIO\Desktop\Buscar Tabajo\ListaDeProyectosAComprobar\EntranSeguro\A1Terminados\MaquinaEstadosProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Domain Reload Profiling:
+	ReloadAssembly (841ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (636ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (184ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (302ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3281 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (55.7 KB). Loaded Objects now: 3741.
+Memory consumption went from 113.5 MB to 113.5 MB.
+Total: 3.036900 ms (FindLiveObjects: 0.328500 ms CreateObjectMapping: 0.075800 ms MarkObjects: 2.501900 ms  DeleteObjects: 0.129400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14085.661883 seconds.
+  path: Assets/Scripts/FSM/Action.cs
+  artifactKey: Guid(c38b98cc02855ae4592677b137d136b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Action.cs using Guid(c38b98cc02855ae4592677b137d136b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90d282ca97d59e89937aa5dd08b2bbb') in 0.025267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.072337 seconds.
+  path: Assets/Scripts/FSM/Controller.cs
+  artifactKey: Guid(cec378dbfebce2e478a748c0a19d9a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Controller.cs using Guid(cec378dbfebce2e478a748c0a19d9a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e249f6d445a7bd841f01a1f707dcc8d') in 0.006085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.698469 seconds.
+  path: Assets/Scripts/FSM/Decision.cs
+  artifactKey: Guid(3874ee59b72ab8643bace1f7745b210e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Decision.cs using Guid(3874ee59b72ab8643bace1f7745b210e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da25e26b08b70dec695eac47e88f641') in 0.006207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.695372 seconds.
+  path: Assets/Scripts/FSM/State.cs
+  artifactKey: Guid(ae9491c6debfed140b8bcb44622d8a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/State.cs using Guid(ae9491c6debfed140b8bcb44622d8a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a03bd8907dd7cb0a967130f4f8b210') in 0.006076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.634920 seconds.
+  path: Assets/Scripts/FSM/Transition.cs
+  artifactKey: Guid(c478cba3b1f9c5d44865a2077e7ee642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Transition.cs using Guid(c478cba3b1f9c5d44865a2077e7ee642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3407f988c135c65f47f0dd8ed12aecd') in 0.006714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.691669 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberEnter.cs
+  artifactKey: Guid(c1a534b51ccef6d4a9dd02ff38b9915b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberEnter.cs using Guid(c1a534b51ccef6d4a9dd02ff38b9915b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffcd782ffd88b6ca83bc253e751eca2') in 0.007013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.193582 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberExit.cs
+  artifactKey: Guid(0ead5bf41b83c6b4bb16bf40b1b74bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberExit.cs using Guid(0ead5bf41b83c6b4bb16bf40b1b74bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48be8bdd0e9b53a3974637f0fb8d617') in 0.006538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.732962 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberUpdate.cs
+  artifactKey: Guid(1fcd3abb9fe357345b6caf6b4b913e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionAmberUpdate.cs using Guid(1fcd3abb9fe357345b6caf6b4b913e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a8621456a9b13d8a53f02450c07b9d') in 0.006346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.374121 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenEnter.cs
+  artifactKey: Guid(2b1ac0db2b999b14eb09aad0242014bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenEnter.cs using Guid(2b1ac0db2b999b14eb09aad0242014bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eef33b5ad86089ea1157a5515bec5a6') in 0.006271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.800575 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenExit.cs
+  artifactKey: Guid(8634f765651250c44907500c4d3af57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenExit.cs using Guid(8634f765651250c44907500c4d3af57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd739828d41417cb72e8edf56153145f') in 0.006650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.708608 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenUpdate.cs
+  artifactKey: Guid(02b980a46a5880742b3aa33b909f6fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionGreenUpdate.cs using Guid(02b980a46a5880742b3aa33b909f6fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b2655715d8a5615253e685db1028f9') in 0.006628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.697396 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionRedEnter.cs
+  artifactKey: Guid(34fd89aae5eb34b4b80401ca9c1b1119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionRedEnter.cs using Guid(34fd89aae5eb34b4b80401ca9c1b1119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74dc4e514cadfbd3220c1eafb6a221c') in 0.006177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.656596 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionRedExit.cs
+  artifactKey: Guid(52f9f01d7729c9340a59c6cbd58540b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionRedExit.cs using Guid(52f9f01d7729c9340a59c6cbd58540b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e73734b6cbad9c1af97ff1b436430d') in 0.006113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.700590 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreActionRedUpdate.cs
+  artifactKey: Guid(688c9063b8253a4439c033e1140c701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreActionRedUpdate.cs using Guid(688c9063b8253a4439c033e1140c701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233cc14db2b9f10961438a146d371c89') in 0.006591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.710863 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAmberToRed.cs
+  artifactKey: Guid(e33fadf810c3b84479bd3f97fb51f0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAmberToRed.cs using Guid(e33fadf810c3b84479bd3f97fb51f0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce37f575bb73955db8efa0a449af06fd') in 0.006094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.682159 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToAmber.cs
+  artifactKey: Guid(d56c78b89fac99141a5dc11049c235cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToAmber.cs using Guid(d56c78b89fac99141a5dc11049c235cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abad9ba85a299baf2bc23a6682268a54') in 0.005967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.678041 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToGreen.cs
+  artifactKey: Guid(6a5e06a358316a742afdaf4bfffdc06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToGreen.cs using Guid(6a5e06a358316a742afdaf4bfffdc06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d6dc508e1019fb6c2df13f68cd7089a') in 0.005999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.706416 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToRed.cs
+  artifactKey: Guid(7b63b9e5ac5150544b0b6c933e6bd1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionAnyToRed.cs using Guid(7b63b9e5ac5150544b0b6c933e6bd1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf5dfb3107af16a52830d66d22089d5') in 0.006128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.653846 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionGreenToAmber.cs
+  artifactKey: Guid(7b61a21836953974880781a3d036a961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionGreenToAmber.cs using Guid(7b61a21836953974880781a3d036a961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e1cb4a599a5265ef88cfecd285266e') in 0.006575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.697510 seconds.
+  path: Assets/Scripts/SemaphoreFSM/SemaphoreDecisionRedToGreen.cs
+  artifactKey: Guid(a320c65b63e3b2540b1ffdd1afd8b3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SemaphoreFSM/SemaphoreDecisionRedToGreen.cs using Guid(a320c65b63e3b2540b1ffdd1afd8b3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2449b3d7e6991ce97083b89fef670df4') in 0.006138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.838268 seconds.
+  path: Assets/StateMachines/Semaphore/Decisions/AmberToRed.asset
+  artifactKey: Guid(00d59b6457b448c4a8ad32d06d8dcbe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StateMachines/Semaphore/Decisions/AmberToRed.asset using Guid(00d59b6457b448c4a8ad32d06d8dcbe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2968d66d39968453fbe1c8cf114507e8') in 0.018724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.445561 seconds.
+  path: Assets/StateMachines/Semaphore/States/StateAmber.asset
+  artifactKey: Guid(91ea917c24926fd448028b61f2dcaecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StateMachines/Semaphore/States/StateAmber.asset using Guid(91ea917c24926fd448028b61f2dcaecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b8b7b993c6edc89be813dcd640af60') in 0.012322 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007563 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\USUARIO\Desktop\Buscar Tabajo\ListaDeProyectosAComprobar\EntranSeguro\A1Terminados\MaquinaEstadosProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\USUARIO\Desktop\Buscar Tabajo\ListaDeProyectosAComprobar\EntranSeguro\A1Terminados\MaquinaEstadosProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.991 seconds
+Domain Reload Profiling:
+	ReloadAssembly (992ms)
+		BeginReloadAssembly (134ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (739ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (231ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3275 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3745.
+Memory consumption went from 113.4 MB to 113.4 MB.
+Total: 3.140900 ms (FindLiveObjects: 0.308700 ms CreateObjectMapping: 0.074000 ms MarkObjects: 2.734100 ms  DeleteObjects: 0.022900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
