@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DemoManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Ground
+  - Background
+  - Sectors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: plane1
+    uniqueID: 4201238693
+    locked: 0
+  - name: plane2
+    uniqueID: 3259993541
+    locked: 0
+  - name: plane3
+    uniqueID: 2311584047
+    locked: 0
+  - name: UIPlane1
+    uniqueID: 3512611093
+    locked: 0
